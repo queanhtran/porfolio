@@ -1,9 +1,17 @@
 
-<h1>Hello, I'm Anh or QueAnh! <br/><a href="https://github.com/queanhtran"> Computer Scientist </a> ,  <a href="https://www.linkedin.com/in/ngoc-que-anh-tran-648393282/"> Ph.D. Student </a> </h1>
+# Hi there, I'm Anh (Ngoc Que Anh Tran)
 
+## 💻 Computer Scientist | 🧑‍🎓 Ph.D. Student 
 
-<h1> EDUCATION: </h1>
+[![GitHub](https://img.shields.io/badge/GitHub-queanhtran-181717?style=flat&logo=github)](https://github.com/queanhtran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anh--tran-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anh-tran-648393282/)
 
+### About Me
+I am a  **Ph.D. student** in Computer Science at the University of Nebraska-Lincoln, where I conduct research under the guidance of  **Dr. Liang He**. My work focuses on developing advanced **Digital Twin systems** for the Smart Agriculture sector. 
+
+**My research interests** encompass a range of topics, including wireless communication, image-based 3D reconstruction, and digital twins.
+
+## 🏫 **Education**
 <h3> University of Nebraska Lincoln (Expected Graduation: 08/2029)</h3>
 
 - Ph.D. in Computer Science under the supervision of Dr. Liang He
@@ -13,22 +21,20 @@
 - BA in Computer Science, Minor in Data Science 
 - <I> Outstanding Graduate of Engineering College, with Special Honors</i>
 
-<h1> EXPERIENCE: </h1>
+## 💼 **Experience**
 
 <h3> Graduate Research Assistant | Python, MATLAB </h3>
 
 <I> University of Nebraska Lincoln (08/2024 - Present) </i>
-- Actively contributing to the T-IDS project
+- Leading research on developing a Digital Twin system for the Smart Agriculture sector, enabling real-time simulation, monitoring, and optimization of agriculture using digital replicas of physical systems.
 
 <h3> Undergraduate Research Assistant | Python, MATLAB </h3>
 
 <I> University of Colorado Denver (10/2023 - 06/2024) </i>
 
-- Spearheaded the design of a thermal-based anomaly detection system (T-IDS) for Wind Turbines
-- Successfully had a paper accepted by ACM International Conference on Future and Sustainable Energy
-Systems (e-Energy ’24)
-- Conducted comprehensive tests on T-IDS to show its excel at detecting anomalies while maintaining a
-low rate of false alarms
+- Spearheaded the design of a thermal-based anomaly detection system (T-IDS) for Wind Turbines, utilizing NumPy and pandas for data analysis and interpolation.
+- Implemented a Random Forest algorithm with scikit-learn to enhance detection accuracy while minimizing false alarms.
+- Published a paper accepted by the ACM International Conference on Future and Sustainable Energy Systems (e-Energy ’24).
 
 <h3> Teaching Assistant | GitHub, C++, Markdown </h3>
 
@@ -39,8 +45,7 @@ and assessed weekly coding assignments and final projects
 - Offered unwavering guidance and mentorship to over 80 students in Object-Oriented Programming
 class, ensuring their academic advancement.
 
-<h1> PUBLICATIONS </h1>
-
+## 📝 **Publications**
 
 <dl>
   <dt>1. An Intrusion Detection System for Wind Turbines Based on Thermal Models.</dt>
@@ -50,8 +55,8 @@ class, ensuring their academic advancement.
   <dd><I> ACM International Conference on Future and Sustainable Energy Systems (e-Energy ’24). </I><b>Ngoc Que Anh Tran </b>, Liang He </dd>
 </dl>
 
-<h1> SKILLS </h1>
+## 🛠 **Skills**
 
-- Programming Languages: Python, C++, R, SQL, Javascript, HTML/CSS
-- Libraries: pandas, NumPy, Matplotlib, Scikit-learn
-- Application: VS Code, Matlab, GitHub, RStudio, Jamovi, SPSS
+- **Programming**: Python, C++, TypeScript, R, SQL
+- **Libraries**: pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+- **Tools**: VS Code, MATLAB, GitHub, RStudio, SPSS
