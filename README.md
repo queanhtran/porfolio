@@ -57,6 +57,5 @@ class, ensuring their academic advancement.
 
 ## 🛠 **Skills**
 
-- **Programming**: Python, C++, TypeScript, R, SQL
-- **Libraries**: pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
-- **Tools**: VS Code, MATLAB, GitHub, RStudio, SPSS
+- **Programming**: Python, C++, TypeScript
+- **Libraries**: Scikit-learn, TensorFlow, PyTorch
